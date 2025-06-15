@@ -1,0 +1,22 @@
+{
+    "json_dir": "D:\\Siri Yu\\downloads\\mona.json",
+    "sand": ["attackPercentage", "elementalMastery"],
+    "cup": ["fireBonus", "attackPercentage"],
+    "head": ["criticalDamage"],
+    "ass_reward_dic": {
+        "attackPercentage": 3.89,
+        "attackStatic": 1.0,
+        "critical": 7.77,
+        "criticalDamage": 7.77,
+        "defendPercentage": 0,
+        "defendStatic": 0,
+        "elementalMastery": 3.89,
+        "lifePercentage": 0,
+        "lifeStatic": 0,
+        "recharge": 0
+    },
+    "init_vals": [0.9, 0.8, 0.9, 0.8],
+    "artifact_name": "ObsidianCodex",
+    "smooth_bandwidth": 0.05,
+    "short_target": "Aug"
+}
